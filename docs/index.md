@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-5-25
+- OpenCorePkg -- 2020-5-28
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -28,7 +28,7 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-5-25
+- CLOVER -- 2020-5-27
   - [Clover.app_v1.21.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.21.pkg)
   - [Clover.app_v1.22.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.22.pkg)
   - [Clover_r5116.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5116.pkg)
@@ -41,7 +41,7 @@
   - AirportBrcmFixup -- 2020-4-24
     - [AirportBrcmFixup-2.0.7-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.7-DEBUG.zip)
     - [AirportBrcmFixup-2.0.7-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.7-RELEASE.zip)
-  - AppleALC -- 2020-5-8
+  - AppleALC -- 2020-5-26
     - [AppleALC-1.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.0-DEBUG.zip)
     - [AppleALC-1.5.0-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.0-RELEASE.zip)
   - BT4LEContinuityFixup -- 2020-4-26
