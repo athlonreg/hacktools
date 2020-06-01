@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-5-31
+- OpenCorePkg -- 2020-6-1
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -41,7 +41,7 @@
   - AirportBrcmFixup -- 2020-4-24
     - [AirportBrcmFixup-2.0.7-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.7-DEBUG.zip)
     - [AirportBrcmFixup-2.0.7-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.7-RELEASE.zip)
-  - AppleALC -- 2020-5-26
+  - AppleALC -- 2020-6-1
     - [AppleALC-1.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.0-DEBUG.zip)
     - [AppleALC-1.5.0-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.0-RELEASE.zip)
   - BT4LEContinuityFixup -- 2020-4-26
