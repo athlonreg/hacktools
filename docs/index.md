@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-5-30
+- OpenCorePkg -- 2020-5-31
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -104,12 +104,16 @@
   - VoodooI2C -- 2020-5-23
     - [VoodooI2C-2.4.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.2.zip)
     - [VoodooI2C-Debug-Symbols-2.4.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.2.zip)
-  - VoodooInput -- 2020-4-26
+  - VoodooInput -- 2020-5-30
     - [VoodooInput-1.0.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-DEBUG.zip)
     - [VoodooInput-1.0.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-RELEASE.zip)
-  - VoodooPS2Controller -- 2020-5-12
+    - [VoodooInput-1.0.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.6-DEBUG.zip)
+    - [VoodooInput-1.0.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.6-RELEASE.zip)
+  - VoodooPS2Controller -- 2020-5-31
     - [VoodooPS2Controller-2.1.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.4-DEBUG.zip)
     - [VoodooPS2Controller-2.1.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.4-RELEASE.zip)
+    - [VoodooPS2Controller-2.1.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.5-DEBUG.zip)
+    - [VoodooPS2Controller-2.1.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.5-RELEASE.zip)
   - WhateverGreen -- 2020-5-31
     - [WhateverGreen-1.3.9-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.3.9-DEBUG.zip)
     - [WhateverGreen-1.3.9-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.3.9-RELEASE.zip)
