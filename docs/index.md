@@ -110,8 +110,8 @@
 - Software
   - CPUS
     - [CPU-S v4.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/CPUS/CPU-S%20v4.1.dmg)
-  - Clover Configurator
-    - [Clover_Configurator_5.14.0.0__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Clover Configurator/Clover_Configurator_5.14.0.0__blog.tlhub.cn.dmg)
+  - Clover%20Configurator
+    - [Clover_Configurator_5.14.0.0__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Clover%20Configurator/Clover_Configurator_5.14.0.0__blog.tlhub.cn.dmg)
   - GenI2C
     - [GenI2C v1.3.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/GenI2C/GenI2C%20v1.3.1.dmg)
   - Hackintool
@@ -126,8 +126,8 @@
     - [Mos v2.4.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Mos/Mos%20v2.4.0.dmg)
   - NoSleep
     - [NoSleep v1.1.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/NoSleep/NoSleep%20v1.1.1.dmg)
-  - OpenCore Configurator
-    - [OpenCore_Configurator_2.5.0.0__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/OpenCore Configurator/OpenCore_Configurator_2.5.0.0__blog.tlhub.cn.dmg)
+  - OpenCore%20Configurator
+    - [OpenCore_Configurator_2.5.0.0__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/OpenCore%20Configurator/OpenCore_Configurator_2.5.0.0__blog.tlhub.cn.dmg)
   - PlistEdit Pro
     - [PlistEdit Pro v1.9.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/PlistEdit%20Pro/PlistEdit%20Pro%20v1.9.1.dmg)
   - Tuxera
