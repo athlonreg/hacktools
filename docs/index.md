@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-6-5
+- OpenCorePkg -- 2020-6-7
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
