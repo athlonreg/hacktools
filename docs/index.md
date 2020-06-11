@@ -141,6 +141,7 @@
     - [v2ray-linux-arm64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-linux-arm64.zip)
     - [v2ray-linux-ppc64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-linux-ppc64.zip)
     - [v2ray-macos.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-macos.zip)
+    - [v2ray-openbsd-64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-openbsd-64.zip)
     - [v2ray-windows-64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-windows-64.zip)
     - [v2rayN-Core.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2rayN-Core.zip)
     - [v2rayN.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2rayN.zip)
