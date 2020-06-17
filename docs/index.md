@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-6-13
+- OpenCorePkg -- 2020-6-17
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -29,7 +29,7 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-6-12
+- CLOVER -- 2020-6-17
   - [Clover.app_v1.23.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.23.pkg)
   - [Clover_r5119.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5119.pkg)
 - Kexts
@@ -50,7 +50,7 @@
   - BrcmPatchRAM -- 2020-4-23
     - [BrcmPatchRAM-2.5.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BrcmPatchRAM/BrcmPatchRAM-2.5.3-DEBUG.zip)
     - [BrcmPatchRAM-2.5.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BrcmPatchRAM/BrcmPatchRAM-2.5.3-RELEASE.zip)
-  - CPUFriend -- 2020-4-25
+  - CPUFriend -- 2020-6-17
     - [CPUFriend-1.2.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/CPUFriend/CPUFriend-1.2.0-DEBUG.zip)
     - [CPUFriend-1.2.0-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/CPUFriend/CPUFriend-1.2.0-RELEASE.zip)
   - DebugEnhancer -- 2020-3-23
@@ -112,9 +112,11 @@
   - VoodooPS2Controller -- 2020-6-14
     - [VoodooPS2Controller-2.1.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.5-DEBUG.zip)
     - [VoodooPS2Controller-2.1.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.5-RELEASE.zip)
-  - WhateverGreen -- 2020-6-10
+  - WhateverGreen -- 2020-6-17
     - [WhateverGreen-1.4.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.0-DEBUG.zip)
     - [WhateverGreen-1.4.0-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.0-RELEASE.zip)
+    - [WhateverGreen-1.4.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-DEBUG.zip)
+    - [WhateverGreen-1.4.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-RELEASE.zip)
 - Software
   - CPUS
     - [CPU-S v4.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/CPUS/CPU-S%20v4.1.dmg)
