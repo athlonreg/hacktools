@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-6-17
+- OpenCorePkg -- 2020-6-19
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -29,7 +29,7 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-6-17
+- CLOVER -- 2020-6-18
   - [Clover.app_v1.23.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.23.pkg)
   - [Clover_r5119.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5119.pkg)
 - Kexts
@@ -98,7 +98,7 @@
   - ThunderboltReset -- 2019-12-2
     - [ThunderboltReset-1.0.0d1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ThunderboltReset/ThunderboltReset-1.0.0d1-DEBUG.zip)
     - [ThunderboltReset-1.0.0d1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ThunderboltReset/ThunderboltReset-1.0.0d1-RELEASE.zip)
-  - VirtualSMC -- 2020-6-13
+  - VirtualSMC -- 2020-6-17
     - [VirtualSMC-1.1.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.4-DEBUG.zip)
     - [VirtualSMC-1.1.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.4-RELEASE.zip)
     - [VirtualSMC-1.1.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.5-DEBUG.zip)
