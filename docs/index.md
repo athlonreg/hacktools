@@ -49,8 +49,6 @@
     - [BrcmPatchRAM-2.5.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BrcmPatchRAM/BrcmPatchRAM-2.5.3-DEBUG.zip)
     - [BrcmPatchRAM-2.5.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BrcmPatchRAM/BrcmPatchRAM-2.5.3-RELEASE.zip)
   - CPUFriend -- 2020-6-29
-    - [CPUFriend-1.2.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/CPUFriend/CPUFriend-1.2.0-DEBUG.zip)
-    - [CPUFriend-1.2.0-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/CPUFriend/CPUFriend-1.2.0-RELEASE.zip)
     - [CPUFriend-1.2.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/CPUFriend/CPUFriend-1.2.1-DEBUG.zip)
     - [CPUFriend-1.2.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/CPUFriend/CPUFriend-1.2.1-RELEASE.zip)
   - DebugEnhancer -- 2020-6-29
@@ -101,9 +99,11 @@
   - VoodooInput -- 2020-6-5
     - [VoodooInput-1.0.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.6-DEBUG.zip)
     - [VoodooInput-1.0.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.6-RELEASE.zip)
-  - VoodooPS2Controller -- 2020-6-14
+  - VoodooPS2Controller -- 2020-6-23
     - [VoodooPS2Controller-2.1.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.5-DEBUG.zip)
     - [VoodooPS2Controller-2.1.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.5-RELEASE.zip)
+    - [VoodooPS2Controller-2.1.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.6-DEBUG.zip)
+    - [VoodooPS2Controller-2.1.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.6-RELEASE.zip)
   - WhateverGreen -- 2020-6-29
     - [WhateverGreen-1.4.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-DEBUG.zip)
     - [WhateverGreen-1.4.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-RELEASE.zip)
