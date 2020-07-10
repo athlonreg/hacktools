@@ -29,7 +29,16 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-7-7
+- CLOVER -- 2020-7-9
+-Date;-
+NULL);-=-gRT->GetTime
+-(&Date,-sizeof
+-Date.Year,-
+-Date.Month,-
+-Date.Day,-
+-Date.Hour,-
+-Date.Minute,-
+-Date.Second-
   - [Clover.app_v1.23.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.23.pkg)
   - [Clover_r5119.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5119.pkg)
 - Kexts
@@ -39,7 +48,7 @@
   - AirportBrcmFixup -- 2020-7-5
     - [AirportBrcmFixup-2.0.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.8-DEBUG.zip)
     - [AirportBrcmFixup-2.0.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.8-RELEASE.zip)
-  - AppleALC -- 2020-7-7
+  - AppleALC -- 2020-7-9
     - [AppleALC-1.5.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.1-DEBUG.zip)
     - [AppleALC-1.5.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.1-RELEASE.zip)
   - BT4LEContinuityFixup -- 2020-6-29
@@ -60,13 +69,13 @@
   - HibernationFixup -- 2020-6-29
     - [HibernationFixup-1.3.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.4-DEBUG.zip)
     - [HibernationFixup-1.3.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.4-RELEASE.zip)
-  - IntelBluetoothFirmware -- 2020-4-1
+  - IntelBluetoothFirmware -- 2020-7-6
     - [IntelBluetoothFirmware-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware-1.0.3-DEBUG.zip)
     - [IntelBluetoothFirmware-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware-1.0.3-RELEASE.zip)
   - IntelMausi -- 2020-5-9
     - [IntelMausi-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-DEBUG.zip)
     - [IntelMausi-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-RELEASE.zip)
-  - Lilu -- 2020-7-6
+  - Lilu -- 2020-7-8
     - [Lilu-1.4.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.6-DEBUG.zip)
     - [Lilu-1.4.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.6-RELEASE.zip)
   - LucyRTL8125Ethernet -- 2020-6-15
@@ -96,13 +105,13 @@
   - VoodooI2C -- 2020-6-15
     - [VoodooI2C-2.4.3.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.3.zip)
     - [VoodooI2C-Debug-Symbols-2.4.3.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.3.zip)
-  - VoodooInput -- 2020-6-5
+  - VoodooInput -- 2020-7-9
     - [VoodooInput-1.0.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.6-DEBUG.zip)
     - [VoodooInput-1.0.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.6-RELEASE.zip)
   - VoodooPS2Controller -- 2020-6-23
     - [VoodooPS2Controller-2.1.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.6-DEBUG.zip)
     - [VoodooPS2Controller-2.1.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.6-RELEASE.zip)
-  - WhateverGreen -- 2020-7-7
+  - WhateverGreen -- 2020-7-9
     - [WhateverGreen-1.4.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-DEBUG.zip)
     - [WhateverGreen-1.4.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-RELEASE.zip)
 - Software
