@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-7-7
+- OpenCorePkg -- 2020-7-9
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -75,7 +75,7 @@ NULL);-=-gRT->GetTime
   - IntelMausi -- 2020-5-9
     - [IntelMausi-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-DEBUG.zip)
     - [IntelMausi-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-RELEASE.zip)
-  - Lilu -- 2020-7-8
+  - Lilu -- 2020-7-10
     - [Lilu-1.4.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.6-DEBUG.zip)
     - [Lilu-1.4.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.6-RELEASE.zip)
   - LucyRTL8125Ethernet -- 2020-6-15
@@ -111,7 +111,7 @@ NULL);-=-gRT->GetTime
   - VoodooPS2Controller -- 2020-6-23
     - [VoodooPS2Controller-2.1.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.6-DEBUG.zip)
     - [VoodooPS2Controller-2.1.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.6-RELEASE.zip)
-  - WhateverGreen -- 2020-7-9
+  - WhateverGreen -- 2020-7-10
     - [WhateverGreen-1.4.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-DEBUG.zip)
     - [WhateverGreen-1.4.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-RELEASE.zip)
 - Software
@@ -122,7 +122,7 @@ NULL);-=-gRT->GetTime
   - GenI2C
     - [GenI2C v1.3.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/GenI2C/GenI2C%20v1.3.1.dmg)
   - Hackintool
-    - [Hackintool v3.4.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Hackintool/Hackintool%20v3.4.0.dmg)
+    - [Hackintool_3.4.1__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Hackintool/Hackintool_3.4.1__blog.tlhub.cn.dmg)
   - IOJones
     - [IOJones v1.2.2.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/IOJones/IOJones%20v1.2.2.dmg)
   - IORegistryExplorer
@@ -130,11 +130,11 @@ NULL);-=-gRT->GetTime
   - MaciASL
     - [MaciASL v1.5.7.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/MaciASL/MaciASL%20v1.5.7.dmg)
   - Mos
-    - [Mos v2.4.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Mos/Mos%20v2.4.0.dmg)
+    - [Mos_3.1.0__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Mos/Mos_3.1.0__blog.tlhub.cn.dmg)
   - NoSleep
     - [NoSleep v1.1.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/NoSleep/NoSleep%20v1.1.1.dmg)
   - OpenCore Configurator
-    - [OpenCore_Configurator_2.6.0.2__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/OpenCore%20Configurator/OpenCore_Configurator_2.6.0.2__blog.tlhub.cn.dmg)
+    - [OpenCore_Configurator_2.7.0.1__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/OpenCore%20Configurator/OpenCore_Configurator_2.7.0.1__blog.tlhub.cn.dmg)
   - PlistEdit Pro
     - [PlistEdit Pro v1.9.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/PlistEdit%20Pro/PlistEdit%20Pro%20v1.9.1.dmg)
   - Tuxera
