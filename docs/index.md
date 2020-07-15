@@ -29,8 +29,87 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-7-14
+- CLOVER -- 2020-7-15
+(UDs.object(forKey:-:-Date
+lastCheckDate.timeIntervalSinceReferenceDate-=-Date().timeIntervalSinceReferenceDate
+-07:30+0300\n"-
+-01:28+0200\n"-
+-HO:MI+ZONE\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-18:53+0100\n"-
+"Treiber-+626,7-@@
+Dateisystem."-für-das
+HFS+-Treiber-für
+Dateisystem-für-das
+Dateisystem-für-das
+Dateisystem."-für-das
+9600-für-das
+-07:30+0300\n"-
+-01:28+0200\n"-
+--
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:38+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+--
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:39+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-10:15+0700\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-10:25+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:41+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+--
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:42+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-12:37+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:43+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:44+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-10:48+0100\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-21:16+0300\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+--
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:46+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:47+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:47+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:47+0200\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-19:03-0400\n"-
+-07:30+0300\n"-
+-01:28+0200\n"-
+-11:48+0200\n"-
   - [Clover.app_v1.23.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.23.pkg)
+  - [Clover.app_v1.24.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.24.pkg)
   - [Clover_r5119.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5119.pkg)
 - Kexts
   - ATH9KFixup -- 2019-2-16
@@ -61,10 +140,6 @@
     - [HibernationFixup-1.3.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.4-DEBUG.zip)
     - [HibernationFixup-1.3.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.4-RELEASE.zip)
   - IntelBluetoothFirmware -- 2020-7-6
-    - [IntelBluetoothFirmware--DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware--DEBUG.zip)
-    - [IntelBluetoothFirmware--RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware--RELEASE.zip)
-    - [IntelBluetoothFirmware-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware-1.0.3-DEBUG.zip)
-    - [IntelBluetoothFirmware-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware-1.0.3-RELEASE.zip)
   - IntelMausi -- 2020-5-9
     - [IntelMausi-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-DEBUG.zip)
     - [IntelMausi-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-RELEASE.zip)
