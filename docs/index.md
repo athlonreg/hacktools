@@ -140,6 +140,7 @@ Dateisystem."-für-das
     - [HibernationFixup-1.3.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.4-DEBUG.zip)
     - [HibernationFixup-1.3.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.4-RELEASE.zip)
   - IntelBluetoothFirmware -- 2020-7-6
+    - [IntelBluetooth-1.1.1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetooth-1.1.1.zip)
   - IntelMausi -- 2020-5-9
     - [IntelMausi-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-DEBUG.zip)
     - [IntelMausi-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-RELEASE.zip)
