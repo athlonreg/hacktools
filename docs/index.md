@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-7-16
+- OpenCorePkg -- 2020-7-17
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -29,7 +29,7 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-7-15
+- CLOVER -- 2020-7-16
   - [Clover.app_v1.23.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.23.pkg)
   - [Clover.app_v1.24.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.24.pkg)
   - [Clover_r5119.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5119.pkg)
@@ -78,9 +78,9 @@
   - NVMeFix -- 2020-6-29
     - [NVMeFix-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NVMeFix/NVMeFix-1.0.3-DEBUG.zip)
     - [NVMeFix-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NVMeFix/NVMeFix-1.0.3-RELEASE.zip)
-  - NoTouchID -- 2019-11-27
-    - [NoTouchID-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NoTouchID/NoTouchID-1.0.3-DEBUG.zip)
-    - [NoTouchID-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NoTouchID/NoTouchID-1.0.3-RELEASE.zip)
+  - NoTouchID -- 2020-7-16
+    - [NoTouchID-1.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NoTouchID/NoTouchID-1.0.4-DEBUG.zip)
+    - [NoTouchID-1.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NoTouchID/NoTouchID-1.0.4-RELEASE.zip)
   - RTCMemoryFixup -- 2020-5-9
     - [RTCMemoryFixup-1.0.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/RTCMemoryFixup/RTCMemoryFixup-1.0.6-DEBUG.zip)
     - [RTCMemoryFixup-1.0.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/RTCMemoryFixup/RTCMemoryFixup-1.0.6-RELEASE.zip)
@@ -90,7 +90,7 @@
   - ThunderboltReset -- 2019-12-2
     - [ThunderboltReset-1.0.0d1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ThunderboltReset/ThunderboltReset-1.0.0d1-DEBUG.zip)
     - [ThunderboltReset-1.0.0d1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ThunderboltReset/ThunderboltReset-1.0.0d1-RELEASE.zip)
-  - VirtualSMC -- 2020-7-16
+  - VirtualSMC -- 2020-7-17
     - [VirtualSMC-1.1.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.5-DEBUG.zip)
     - [VirtualSMC-1.1.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.5-RELEASE.zip)
   - VoodooI2C -- 2020-7-11
