@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-7-17
+- OpenCorePkg -- 2020-7-18
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -29,7 +29,7 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-7-17
+- CLOVER -- 2020-7-18
   - [Clover.app_v1.24.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.24.pkg)
   - [Clover_r5120.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5120.pkg)
 - Kexts
@@ -95,7 +95,7 @@
   - VoodooI2C -- 2020-7-11
     - [VoodooI2C-2.4.3.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.3.zip)
     - [VoodooI2C-Debug-Symbols-2.4.3.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.3.zip)
-  - VoodooInput -- 2020-7-9
+  - VoodooInput -- 2020-7-17
     - [VoodooInput-1.0.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.6-DEBUG.zip)
     - [VoodooInput-1.0.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.6-RELEASE.zip)
   - VoodooPS2Controller -- 2020-7-12
