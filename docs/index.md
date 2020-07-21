@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-7-18
+- OpenCorePkg -- 2020-7-19
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -29,14 +29,14 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-7-18
+- CLOVER -- 2020-7-21
   - [Clover.app_v1.24.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.24.pkg)
   - [Clover_r5120.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5120.pkg)
 - Kexts
   - ATH9KFixup -- 2019-2-16
     - [ATH9KFixup-1.3.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ATH9KFixup/ATH9KFixup-1.3.3-DEBUG.zip)
     - [ATH9KFixup-1.3.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ATH9KFixup/ATH9KFixup-1.3.3-RELEASE.zip)
-  - AirportBrcmFixup -- 2020-7-16
+  - AirportBrcmFixup -- 2020-7-19
     - [AirportBrcmFixup-2.0.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.8-DEBUG.zip)
     - [AirportBrcmFixup-2.0.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.8-RELEASE.zip)
   - AppleALC -- 2020-7-13
@@ -101,7 +101,7 @@
   - VoodooPS2Controller -- 2020-7-12
     - [VoodooPS2Controller-2.1.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.6-DEBUG.zip)
     - [VoodooPS2Controller-2.1.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.6-RELEASE.zip)
-  - WhateverGreen -- 2020-7-13
+  - WhateverGreen -- 2020-7-20
     - [WhateverGreen-1.4.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-DEBUG.zip)
     - [WhateverGreen-1.4.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-RELEASE.zip)
 - Software
