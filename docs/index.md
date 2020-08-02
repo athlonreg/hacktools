@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-7-29
+- OpenCorePkg -- 2020-8-1
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -36,28 +36,28 @@
   - ATH9KFixup -- 2019-2-16
     - [ATH9KFixup-1.3.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ATH9KFixup/ATH9KFixup-1.3.3-DEBUG.zip)
     - [ATH9KFixup-1.3.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ATH9KFixup/ATH9KFixup-1.3.3-RELEASE.zip)
-  - AirportBrcmFixup -- 2020-7-27
+  - AirportBrcmFixup -- 2020-8-1
     - [AirportBrcmFixup-2.0.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.8-DEBUG.zip)
     - [AirportBrcmFixup-2.0.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.8-RELEASE.zip)
-  - AppleALC -- 2020-7-23
+  - AppleALC -- 2020-8-1
     - [AppleALC-1.5.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.1-DEBUG.zip)
     - [AppleALC-1.5.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.1-RELEASE.zip)
-  - BT4LEContinuityFixup -- 2020-6-29
+  - BT4LEContinuityFixup -- 2020-8-1
     - [BT4LEContinuityFixup-1.1.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BT4LEContinuityFixup/BT4LEContinuityFixup-1.1.5-DEBUG.zip)
     - [BT4LEContinuityFixup-1.1.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BT4LEContinuityFixup/BT4LEContinuityFixup-1.1.5-RELEASE.zip)
-  - BrcmPatchRAM -- 2020-4-23
-    - [BrcmPatchRAM-2.5.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BrcmPatchRAM/BrcmPatchRAM-2.5.3-DEBUG.zip)
-    - [BrcmPatchRAM-2.5.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BrcmPatchRAM/BrcmPatchRAM-2.5.3-RELEASE.zip)
-  - CPUFriend -- 2020-6-29
+  - BrcmPatchRAM -- 2020-7-29
+    - [BrcmPatchRAM-2.5.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BrcmPatchRAM/BrcmPatchRAM-2.5.4-DEBUG.zip)
+    - [BrcmPatchRAM-2.5.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BrcmPatchRAM/BrcmPatchRAM-2.5.4-RELEASE.zip)
+  - CPUFriend -- 2020-8-1
     - [CPUFriend-1.2.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/CPUFriend/CPUFriend-1.2.1-DEBUG.zip)
     - [CPUFriend-1.2.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/CPUFriend/CPUFriend-1.2.1-RELEASE.zip)
-  - DebugEnhancer -- 2020-6-29
+  - DebugEnhancer -- 2020-8-1
     - [DebugEnhancer-1.0.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/DebugEnhancer/DebugEnhancer-1.0.1-DEBUG.zip)
     - [DebugEnhancer-1.0.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/DebugEnhancer/DebugEnhancer-1.0.1-RELEASE.zip)
   - DiskArbitrationFixup -- 2020-2-26
     - [DiskArbitrationFixup-1.0.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/DiskArbitrationFixup/DiskArbitrationFixup-1.0.0-DEBUG.zip)
     - [DiskArbitrationFixup-1.0.0-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/DiskArbitrationFixup/DiskArbitrationFixup-1.0.0-RELEASE.zip)
-  - HibernationFixup -- 2020-6-29
+  - HibernationFixup -- 2020-8-1
     - [HibernationFixup-1.3.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.4-DEBUG.zip)
     - [HibernationFixup-1.3.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.4-RELEASE.zip)
   - IntelBluetoothFirmware -- 2020-7-6
@@ -65,7 +65,7 @@
   - IntelMausi -- 2020-5-9
     - [IntelMausi-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-DEBUG.zip)
     - [IntelMausi-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-RELEASE.zip)
-  - Lilu -- 2020-7-29
+  - Lilu -- 2020-8-1
     - [Lilu-1.4.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.6-DEBUG.zip)
     - [Lilu-1.4.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.6-RELEASE.zip)
   - LucyRTL8125Ethernet -- 2020-6-15
@@ -74,13 +74,13 @@
   - MacProMemoryNotificationDisabler -- 2020-4-6
     - [MacProMemoryNotificationDisabler-1.0.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/MacProMemoryNotificationDisabler/MacProMemoryNotificationDisabler-1.0.0-DEBUG.zip)
     - [MacProMemoryNotificationDisabler-1.0.0-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/MacProMemoryNotificationDisabler/MacProMemoryNotificationDisabler-1.0.0-RELEASE.zip)
-  - NVMeFix -- 2020-6-29
+  - NVMeFix -- 2020-8-1
     - [NVMeFix-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NVMeFix/NVMeFix-1.0.3-DEBUG.zip)
     - [NVMeFix-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NVMeFix/NVMeFix-1.0.3-RELEASE.zip)
   - NoTouchID -- 2020-7-23
     - [NoTouchID-1.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NoTouchID/NoTouchID-1.0.4-DEBUG.zip)
     - [NoTouchID-1.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NoTouchID/NoTouchID-1.0.4-RELEASE.zip)
-  - RTCMemoryFixup -- 2020-5-9
+  - RTCMemoryFixup -- 2020-8-1
     - [RTCMemoryFixup-1.0.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/RTCMemoryFixup/RTCMemoryFixup-1.0.6-DEBUG.zip)
     - [RTCMemoryFixup-1.0.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/RTCMemoryFixup/RTCMemoryFixup-1.0.6-RELEASE.zip)
   - SystemProfilerMemoryFixup -- 2019-11-27
@@ -89,7 +89,7 @@
   - ThunderboltReset -- 2019-12-2
     - [ThunderboltReset-1.0.0d1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ThunderboltReset/ThunderboltReset-1.0.0d1-DEBUG.zip)
     - [ThunderboltReset-1.0.0d1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ThunderboltReset/ThunderboltReset-1.0.0d1-RELEASE.zip)
-  - VirtualSMC -- 2020-7-27
+  - VirtualSMC -- 2020-8-1
     - [VirtualSMC-1.1.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.5-DEBUG.zip)
     - [VirtualSMC-1.1.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.5-RELEASE.zip)
   - VoodooI2C -- 2020-7-11
@@ -101,7 +101,7 @@
   - VoodooPS2Controller -- 2020-7-12
     - [VoodooPS2Controller-2.1.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.6-DEBUG.zip)
     - [VoodooPS2Controller-2.1.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.6-RELEASE.zip)
-  - WhateverGreen -- 2020-7-24
+  - WhateverGreen -- 2020-8-1
     - [WhateverGreen-1.4.1-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-DEBUG.zip)
     - [WhateverGreen-1.4.1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.4.1-RELEASE.zip)
 - Software
