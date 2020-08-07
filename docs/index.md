@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-8-5
+- OpenCorePkg -- 2020-8-6
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -31,7 +31,7 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-7-27
+- CLOVER -- 2020-8-6
   - [Clover.app_v1.24.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.24.pkg)
   - [Clover_r5120.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5120.pkg)
 - Kexts
@@ -62,9 +62,11 @@
   - HibernationFixup -- 2020-8-3
     - [HibernationFixup-1.3.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.5-DEBUG.zip)
     - [HibernationFixup-1.3.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.5-RELEASE.zip)
-  - IntelBluetoothFirmware -- 2020-7-6
+  - IntelBluetoothFirmware -- 2020-8-3
     - [IntelBluetooth-1.1.1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetooth-1.1.1.zip)
     - [IntelBluetooth-1.1.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetooth-1.1.2.zip)
+    - [IntelBluetoothFirmware-1.1.2-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware-1.1.2-DEBUG.zip)
+    - [IntelBluetoothFirmware-1.1.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware-1.1.2-RELEASE.zip)
   - IntelMausi -- 2020-5-9
     - [IntelMausi-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-DEBUG.zip)
     - [IntelMausi-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-RELEASE.zip)
@@ -97,9 +99,9 @@
   - VirtualSMC -- 2020-8-4
     - [VirtualSMC-1.1.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.6-DEBUG.zip)
     - [VirtualSMC-1.1.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.6-RELEASE.zip)
-  - VoodooI2C -- 2020-7-11
-    - [VoodooI2C-2.4.3.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.3.zip)
-    - [VoodooI2C-Debug-Symbols-2.4.3.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.3.zip)
+  - VoodooI2C -- 2020-8-6
+    - [VoodooI2C-2.4.4.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.4.zip)
+    - [VoodooI2C-Debug-Symbols-2.4.4.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.4.zip)
   - VoodooInput -- 2020-8-3
     - [VoodooInput-1.0.7-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.7-DEBUG.zip)
     - [VoodooInput-1.0.7-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.7-RELEASE.zip)
@@ -129,7 +131,7 @@
   - NoSleep
     - [NoSleep v1.1.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/NoSleep/NoSleep%20v1.1.1.dmg)
   - OpenCore Configurator
-    - [OpenCore_Configurator_2.8.1.0__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/OpenCore%20Configurator/OpenCore_Configurator_2.8.1.0__blog.tlhub.cn.dmg)
+    - [OpenCore_Configurator_2.9.0.0__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/OpenCore%20Configurator/OpenCore_Configurator_2.9.0.0__blog.tlhub.cn.dmg)
   - PlistEdit Pro
     - [PlistEdit Pro v1.9.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/PlistEdit%20Pro/PlistEdit%20Pro%20v1.9.1.dmg)
   - Tuxera
@@ -140,9 +142,9 @@
     - [V2rayU_2.2.0__blog.tlhub.cn.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/V2rayU_2.2.0__blog.tlhub.cn.dmg)
     - [v2ray-freebsd-64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-freebsd-64.zip)
     - [v2ray-linux-64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-linux-64.zip)
-    - [v2ray-linux-arm64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-linux-arm64.zip)
+    - [v2ray-linux-arm64-v8a.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-linux-arm64-v8a.zip)
     - [v2ray-linux-ppc64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-linux-ppc64.zip)
-    - [v2ray-macos.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-macos.zip)
+    - [v2ray-macos-64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-macos-64.zip)
     - [v2ray-openbsd-64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-openbsd-64.zip)
     - [v2ray-windows-64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-windows-64.zip)
     - [v2rayN-Core.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2rayN-Core.zip)
