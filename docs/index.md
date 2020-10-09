@@ -35,10 +35,7 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-10-7
-CHAR8*-+131,9-@@
--CHAR8*-gFirmwareBuildDate;
-)-"unknown"_XS8-!=
+- CLOVER -- 2020-10-8
   - [Clover.app_v1.24.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.24.pkg)
   - [Clover_r5122.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5122.pkg)
   - [Clover_r5123.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5123.pkg)
@@ -107,9 +104,9 @@ AppleRTC::setupDateTimeAlarm-RTC-wake
     - [VirtualSMC-1.1.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.8-DEBUG.zip)
     - [VirtualSMC-1.1.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.8-RELEASE.zip)
   - VoodooI2C -- 2020-10-8
-    - [VoodooI2C-2.5.1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.5.1.zip)
-    - [VoodooI2C-Debug-Symbols-2.5.1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.5.1.zip)
-  - VoodooInput -- 
+    - [VoodooI2C-2.5.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.5.2.zip)
+    - [VoodooI2C-Debug-Symbols-2.5.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.5.2.zip)
+  - VoodooInput -- 2020-10-5
     - [VoodooInput-1.0.9-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.9-DEBUG.zip)
     - [VoodooInput-1.0.9-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.9-RELEASE.zip)
   - VoodooPS2Controller -- 2020-10-5
